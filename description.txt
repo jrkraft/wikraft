@@ -1,1 +1,1 @@
-Suite au tuto GHIT de Lynda.com
+Suite au tuto GIT de Lynda.com
