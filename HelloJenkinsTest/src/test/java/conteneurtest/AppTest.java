@@ -1,4 +1,4 @@
-package package;
+package conteneurtest;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

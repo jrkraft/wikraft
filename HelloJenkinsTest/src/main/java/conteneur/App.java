@@ -1,4 +1,4 @@
-package package;
+package conteneur;
 
 /**
  * Hello world!
