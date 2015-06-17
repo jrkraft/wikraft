@@ -25,6 +25,7 @@ public class AppTest
      */
     public static Test suite()
     {
+    	int var = 10; /*just jenkins test*/
         return new TestSuite( AppTest.class );
     }
 
